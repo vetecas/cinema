@@ -18,7 +18,6 @@ namespace CinemaApp
             cadastroGenero.MdiParent = this;
             cadastroGenero.Show();
 
-
         }
     }
 }
